@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tostan2
+- 👀 I’m interested in web3 applications
+- 🌱 I’m currently learning solidly
+- 💞️ I’m looking to collaborate on open source projects
